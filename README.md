@@ -3,7 +3,7 @@
 Welcome to my GitHub space, where I blend creativity and technology to build innovative solutions!
 
 ### About Me
-🌍 I'm a passionate **Full Stack Developer** specializing in **JavaScript** technologies. My journey in tech is fueled by a love for problem-solving and continuous learning.
+🌍 I'm a passionate **Full Stack Developer JS** specializing in **JavaScript** technologies. My journey in tech is fueled by a love for problem-solving and continuous learning.
 
 ### What I'm Currently Working On
 - 🌱 **Learning Journey**: Currently mastering **advanced JavaScript** and exploring the fascinating world of **C#** and **.NET**. The more I learn, the more I realize how much there is to discover!
